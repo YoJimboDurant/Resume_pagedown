@@ -1,0 +1,174 @@
+---
+title: "James T. Durant resume"
+author: James T. Durant
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: resumex.css   
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jamesdrenda@charter.net
+- <i class="fa fa-github"></i> [github.com/yojimbodurant](https://github.com/yojimbodurant)
+- <i class="fa-brands fa-researchgate"></i>[researchgate.net/profile/James-Durant](https://www.researchgate.net/profile/James-Durant)
+- <i class="fa fa-phone"></i> +1 404-632-1529
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical analysis of environmental and biomonitoring data.
+
+- Experienced with multimedia environmental sampling, including incremental sampling designs.
+
+- Highly skilled in R for probabilistic risk assessment, air dispersion modeling, groundwater vapor intrusion modeling, and data visualization
+
+
+Disclaimer{#disclaimer}
+--------------------------------------------------------------------------------
+Last updated on <br>`r Sys.Date()`.
+
+
+
+
+
+
+Main
+================================================================================
+
+James T. Durant {#title}
+--------------------------------------------------------------------------------
+
+### MSPH, CIH
+
+Environmental Health Scientist with 20+ years of experience in environmental sampling, industrial hygiene, data analysis, air modeling, risk assessment, and toxicology.
+
+Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+### Environmental Health Scientist
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+Present - 2019
+
+- Provided statistical analysis and visualization of ethylene oxide air sampling data collected at two sterilization plants and one chemical plant in Illinois using parametric and nonparametric modeling to assist the agency evaluation potential public health risks from ethylene oxide exposure.
+- Analyzed and visualized community biomonitoring investigation data and compared to age adjusted National Health and Nutrition Examination Survey Data.
+- Developed R package to perform groundwater vapor intrusion modeling using EPA's Johnson and Ettinger Model with enhancements for visualization and  probabilistic inputs.  
+
+### Branch Associate Director for Science (Acting)
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+2019 - 2017
+
+- Conducted scientific review and technical clearance of health assessments, health consultations, exposure investigations, protocols, presentations, manuscripts and other publications. 
+- Development of critical ATSDR guidance documents on statistical methodologies and training related to the guidance. 
+
+### Environmental Health Scientist
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+2017 - 2012
+
+- Analyzed and visualized a database containing over 30 years of hourly and daily air quality measurements from multiple monitoring networks for hundreds of chemical species to support the public health assessments at Corpus Christi, TX, and Midlothian, TX. 
+- Developed R and Bash scripts to run on CDC’s High Performance Computing Cluster, to perform data extraction of over 12 terabytes of prognostic meteorological data for an air dispersion model. Developed visualizations to check the output of the data extraction.
+- Developed a package of R functions that download data, run AERMET, AERMINUTE and AERSURFACE,  and performing quality assurance of output.
+
+### Environmental Health Scientist (Emergency Response)
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+2012 - 2008
+
+- Developed public health evaluations of acute and emergency chemical releases and to developed appropriate responses to protect public health. 
+- Researched and developed chemical specific documents describing toxicology and environmental chemistry of chemicals including benchmark dose modeling.
+- Deployed doemstically and internationally, supporting agency responses such as Deep Water Horizon, and acute lead poisoning in communities engaged in artisan gold mining in Africa. 
+
+### Environmental Health Scientist
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+2008 - 2002
+
+- Developed or contributed to public health documents pertaining to fifteen different sites, including development of web pages and fact sheets for public use. Contaminants of concern included asbestos, metals, volitile organic compunds and polycyclic aromatic hydrocarbons and dioxin like compounds in air, water and soil/sediment.
+- Conducted three exposure investigations for the agency pertaining to metals, dioxins, and asbestos. Analyzed results of exposure investigations and developed reports.
+- Designed environmental sampling component of a study examining lead and arsenic exposure in a Peruvian community with a lead mine.
+
+
+
+### Safety Specialist/Industrial Hygienist
+
+Central Arizona Project
+
+Phoenix, AZ
+
+2002 - 1998
+
+- Spearheaded new accident/near miss reporting, investigation and database-tracking system. Brought the district into compliance with OSHA respiratory protection, hearing conservation, worker lead protection and blood-borne pathogens standards. Established an industrial hygiene testing program for evaluating employee exposure to noise and air contaminant hazards.
+- Conducted risk assessments including monitoring and mitigation strategies for occupational safety and health hazards. 
+
+### Industrial Hygienist II
+
+Arizona Division of Occupational Safety and Health
+
+Phoenix, AZ
+
+1998 - 1996
+
+- Inspected workplaces for compliance with applicable OSHA safety and health standards. Assessed exposure to occupational health hazards and performed air and noise monitoring. Investigated fatality and catastrophe incidents for the division.
+- Conducted over 80 OSHA routine and complaint based inspections in a variety of workplace settings, including 2 fatality investigations. 
+- Fielded workplace safety complaint calls and, as indicated, performed informal complaint investigations through telephone contact with employers.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Alabama at Birmingham
+
+M.S.P.H. Industrial Hygiene
+
+Birmingham, AL
+
+1996
+
+GPA: 3.69/4.0
+
+U.S. Department of Energy, Oak Ridge Institute of Science and Technology Industrial Hygiene Fellowship recipient.
+
+### University of Georgia
+
+B.S.E.H. Environmental Health Science
+
+Athens, GA
+
+1993
+
+GPA: 3.54/4.0
+
+::: aside
+
+####  Hobbies and Interests {#skills2}
+
+ Amateur Radio (FCC Amateur Extra Class License KE4MKG) 
+
+ Georgia Appalachian Trail Club (Section 9.13 maintainer)
+
+:::
