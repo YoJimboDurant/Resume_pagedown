@@ -62,9 +62,9 @@ Atlanta, GA
 
 Present - 2019
 
-- Provided statistical analysis and visualization of community based ethylene oxide air sampling data that demonstrated of significant improvement in ethylene oxide concentrations after controls were instituted, and a better understanding of past and current ecommunity exposure.
-- Compared blood lead and urinary arsenic levels measured in community memebers living near a former lead smelter to the age adjusted NHANES data and analyzed exposure questionnaire data. The analysis demonstrated a small, but significant increase in lead in the community, and an association of increased blood lead levels with exposure to attic dust.  
-- Developed R package to perform groundwater vapor intrusion modeling using EPA's Johnson and Ettinger Model, with enhancements for visualization and  probabilistic inputs. Th package was used to efficiently generate estimates of exposure from groundwater vapor intrusion at a site with hundreds of buildings and scores of chemicals.  
+- Provided statistical analysis and visualization of ethylene oxide air sampling data collected at two sterilization plants and one chemical plant in Illinois. The analysis improved estimates of exposure, and demonstrated a significant improvement in ethylene oxide concentrations after controls were instituted at these sites.
+- To support an ATSDR Exposure Investigation at a former lead smelter site, compared blood lead and urinary arsenic levels measured in community members to age adjusted NHANES data and analyzed exposure questionnaire data. The analysis demonstrated a small, but significant increase in lead in the community, and an association of increased blood lead levels with exposure to attic dust.  
+- Developed R package to perform groundwater vapor intrusion modeling using EPA's Johnson and Ettinger Model, with enhancements for visualization and  probabilistic inputs. The package was used to efficiently generate estimates of exposure from groundwater vapor intrusion at a site with hundreds of buildings and scores of chemicals.  
 
 ### Branch Associate Director for Science (Acting)
 
@@ -75,7 +75,7 @@ Atlanta, GA
 2019 - 2017
 
 - Conducted scientific review and technical clearance of health assessments, health consultations, exposure investigations, protocols, presentations, manuscripts and other publications to ensure that the data were clearly and transparently presented, the conclusions were supported by the data, and the recommendations were impactful to public health.  
-- Development of ATSDR guidance documents on statistical methodologies and training related to the guidance. Guidance was incorporated into the ATSDR's Public Health Assessment Guidance manual and training and ensures that health assessors carefully consider data quality objectives and robust estimation of exposure point concentration estimates. 
+- Developed ATSDR guidance documents on statistical methodologies and training related to the guidance. Guidance was incorporated into the ATSDR's Public Health Assessment Guidance manual and training and ensures that health assessors carefully consider data quality objectives and robust estimation of exposure point concentration estimates. 
 
 ### Environmental Health Scientist (Science Support Branch, GS - 13)
 
@@ -87,7 +87,7 @@ Atlanta, GA
 
 - Analyzed and visualized a database containing over 30 years of hourly and daily air quality measurements from multiple monitoring networks for hundreds of chemical species to support the public health assessments at Corpus Christi, TX, and Midlothian, TX. Analysis was used to better understand long term community exposure spatially, as well as identify that for many compounds, exposure was decreasing over time.  
 - Used R and Bash to process 12 terabytes of prognostic meteorological data for CALPUF air dispersion system to model emissions and screen emissions from a paper mill for contaminants to include in an ATSDR Exposure Investigation. 
-- Developed a package of R functions that download data, run AERMET, AERMINUTE and AERSURFACE,  and performing quality assurance of output. This package was adapted and used by U.S. EPA to perform AERMET analysis at over 800 sites across the country, as well as used by ATSDR to support site specific modeling.
+- Developed a package of R functions that download data, run AERMET, AERMINUTE and AERSURFACE, and provides graphic and tubular quality assurance of output. This package was adapted and used by U.S. EPA to perform AERMET analysis at over 800 sites across the country, as well as used by ATSDR to support site specific modeling.
 
 ### Environmental Health Scientist (Emergency Response, GS-13)
 
@@ -97,9 +97,9 @@ Atlanta, GA
 
 2012 - 2008
 
-- Developed public health evaluations of acute and emergency chemical releases and to developed appropriate responses to protect public health. 
+- Developed public health evaluations of acute and emergency chemical releases and developed appropriate recommendations to protect public health. 
 - Researched and developed chemical specific documents describing toxicology and environmental chemistry of chemicals including benchmark dose modeling.
-- Deployed doemstically and internationally, supporting agency responses such as Deep Water Horizon, and acute lead poisoning in communities engaged in artisan gold mining in Africa. 
+- Deployed domestically and internationally, supporting agency responses such as Deep Water Horizon, and acute lead poisoning in communities engaged in artisan gold mining in Africa. 
 
 ### Environmental Health Scientist (Exposure Investigations and Site Assessment Branch, GS-11,12,13)
 
