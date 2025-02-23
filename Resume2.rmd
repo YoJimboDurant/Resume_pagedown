@@ -1,0 +1,169 @@
+---
+title: "James T. Durant resume"
+author: James T. Durant
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: resumex2.css   
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jamesdrenda@charter.net
+- <i class="fa fa-github"></i> [github.com/yojimbodurant](https://github.com/yojimbodurant)
+- <i class="fa-brands fa-researchgate"></i> [researchgate.net/profile/James-Durant](https://www.researchgate.net/profile/James-Durant)
+- <i class="fa fa-phone"></i> +1 404-632-1529
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical analysis of environmental and biomonitoring data.
+
+- Experienced with multimedia environmental sampling, including incremental sampling designs.
+
+- Highly skilled in R for probabilistic risk assessment, air dispersion modeling, groundwater vapor intrusion modeling, and data visualization
+
+
+Disclaimer{#disclaimer}
+--------------------------------------------------------------------------------
+Last updated on <br>`r Sys.Date()`.
+
+
+
+
+
+
+Main
+================================================================================
+
+James T. Durant {#title}
+--------------------------------------------------------------------------------
+
+### MSPH, CIH
+
+Environmental Health Scientist with 20+ years of experience in environmental sampling, industrial hygiene, data analysis, air modeling, risk assessment, and toxicology.
+
+Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+### Environmental Health Scientist (Exposure Investigation Section, GS-14)
+
+Agency for Toxic Substances and Disease Registry (ATSDR)
+
+Atlanta, GA
+
+Present - 2019
+
+- Provided statistical analysis and visualization of community based ethylene oxide air sampling data that demonstrated of significant improvement in ethylene oxide concentrations after controls were instituted, and a better understanding of past and current ecommunity exposure.
+- Compared blood lead and urinary arsenic levels measured in community memebers living near a former lead smelter to the age adjusted NHANES data and analyzed exposure questionnaire data. The analysis demonstrated a small, but significant increase in lead in the community, and an association of increased blood lead levels with exposure to attic dust.  
+- Developed R package to perform groundwater vapor intrusion modeling using EPA's Johnson and Ettinger Model, with enhancements for visualization and  probabilistic inputs. Th package was used to efficiently generate estimates of exposure from groundwater vapor intrusion at a site with hundreds of buildings and scores of chemicals.  
+
+### Branch Associate Director for Science (Acting)
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+2019 - 2017
+
+- Conducted scientific review and technical clearance of health assessments, health consultations, exposure investigations, protocols, presentations, manuscripts and other publications to ensure that the data were clearly and transparently presented, the conclusions were supported by the data, and the recommendations were impactful to public health.  
+- Development of ATSDR guidance documents on statistical methodologies and training related to the guidance. Guidance was incorporated into the ATSDR's Public Health Assessment Guidance manual and training and ensures that health assessors carefully consider data quality objectives and robust estimation of exposure point concentration estimates. 
+
+### Environmental Health Scientist (Science Support Branch, GS - 13)
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+2017 - 2012
+
+- Analyzed and visualized a database containing over 30 years of hourly and daily air quality measurements from multiple monitoring networks for hundreds of chemical species to support the public health assessments at Corpus Christi, TX, and Midlothian, TX. Analysis was used to better understand long term community exposure spatially, as well as identify that for many compounds, exposure was decreasing over time.  
+- Used R and Bash to process 12 terabytes of prognostic meteorological data for CALPUF air dispersion system to model emissions and screen emissions from a paper mill for contaminants to include in an ATSDR Exposure Investigation. 
+- Developed a package of R functions that download data, run AERMET, AERMINUTE and AERSURFACE,  and performing quality assurance of output. This package was adapted and used by U.S. EPA to perform AERMET analysis at over 800 sites across the country, as well as used by ATSDR to support site specific modeling.
+
+### Environmental Health Scientist (Emergency Response, GS-13)
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+2012 - 2008
+
+- Developed public health evaluations of acute and emergency chemical releases and to developed appropriate responses to protect public health. 
+- Researched and developed chemical specific documents describing toxicology and environmental chemistry of chemicals including benchmark dose modeling.
+- Deployed doemstically and internationally, supporting agency responses such as Deep Water Horizon, and acute lead poisoning in communities engaged in artisan gold mining in Africa. 
+
+### Environmental Health Scientist (Exposure Investigations and Site Assessment Branch, GS-11,12,13)
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+2008 - 2002
+
+- Developed or contributed to public health documents pertaining to fifteen different sites, including development of web pages and fact sheets for public use. Contaminants of concern included asbestos, metals, volitile organic compunds and polycyclic aromatic hydrocarbons and dioxin like compounds in air, water and soil/sediment. 
+- Conducted three exposure investigations for the agency pertaining to metals, dioxins, and asbestos. Analyzed results of exposure investigations and developed reports.
+- Designed environmental sampling component of a study examining lead and arsenic exposure in a Peruvian community with a lead mine.
+
+
+
+### Safety Specialist/Industrial Hygienist
+
+Central Arizona Project
+
+Phoenix, AZ
+
+2002 - 1998
+
+- Spearheaded new accident/near miss reporting, investigation and database-tracking system. Brought the district into compliance with OSHA respiratory protection, hearing conservation, worker lead protection and blood-borne pathogens standards. Established an industrial hygiene testing program for evaluating employee exposure to noise and air contaminant hazards.
+- Conducted risk assessments including monitoring and mitigation strategies for occupational safety and health hazards. 
+
+### Industrial Hygienist II
+
+Arizona Division of Occupational Safety and Health
+
+Phoenix, AZ
+
+1998 - 1996
+
+- Inspected workplaces for compliance with applicable OSHA safety and health standards. Assessed exposure to occupational health hazards and performed air and noise monitoring. Investigated fatality and catastrophe incidents for the division.
+- Conducted over 80 OSHA routine and complaint based inspections in a variety of workplace settings, including 2 fatality investigations. 
+- Fielded workplace safety complaint calls and, as indicated, performed informal complaint investigations through telephone contact with employers.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Alabama at Birmingham
+
+M.S.P.H. Industrial Hygiene (GPA: 3.69/4.0)
+
+Birmingham, AL
+
+1996
+
+### University of Georgia
+
+B.S.E.H. Environmental Health Science (GPA: 3.54/4.0)
+
+Athens, GA
+
+1993
+
+Hobbies and Volunteer Activities {data-icon=handshake data-concise=true}
+--------------------------------------------------------------------------------
+Amateur Radio: Amateur Extra Class License KE4MKG
+
+Georgia Appalachian Trail Club: Section 9.13 maintainer, Level 1 Sawyer (chainsaw)
+
+Lawrenceville Cooperative Ministry (community food bank): Screener/Interviewer
+
+
+
