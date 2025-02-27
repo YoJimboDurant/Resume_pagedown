@@ -41,6 +41,7 @@
 }
 
 @page{
+ 
   background: linear-gradient(to left, var(--sidebar-background-color), var(--sidebar-background-color) var(--sidebar-background-width), white var(--sidebar-background-width));
 }
 
@@ -60,7 +61,11 @@ body{
 h1, h2, h3{
   margin: 0;
   color: #000;
+  text-align:left;
+  
+ 
 }
+
 
 #main > h1, #aside > h1, #disclaimer > h2 {
   display: none;
@@ -102,9 +107,15 @@ img{
 /* main */
 
 /** big title **/
-h1, h2{
+h1{
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2{
   text-transform: uppercase;
 }
+
 
 #title{
   position: relative;
@@ -121,6 +132,7 @@ h1, h2{
 
 #title h3{
   font-size: 0.8rem;
+  text-align:center;
 }
 
 
@@ -357,14 +369,24 @@ h1, h2{
 
 #contact ul{
   margin-top: 0.05in;
-  padding-left: 0;
-  font-weight: 400;
-  line-height: 1.75;
+  position: relative;
+  left: 0.55in;font-weight: 400;
+  line-height: 0.75;
+}
+
+#contact p{
+  margin-top: 0.05in;
+  margin-left:0.1in;
+  position: relative;
+  left: 0.55in;font-weight: 400;
+  line-height: 0.75;
 }
 
 #contact li > i{
   width: 0.9rem; /* for text alignment */
-  text-align: right;
+  text-align: left;
+  position: relative;
+  margin: auto 0.1in 0.1in auto;
 }
 
 #skills{
@@ -432,6 +454,15 @@ h2 {
 }
 
 @page:first {
+   @top-center {
+    content: "";
+    background: linear-gradient(to bottom, #DBD7D2, #FFFFFF); /* Darker (#666) to lighter (#ccc) */
+    display: block;
+    height: 0.95in;
+    width: calc(110% + var(--margin-left)); /* Extend into left margin */
+    margin-left: calc(-1 * var(--margin-left)); /* Shift left */
+  }
+  
   background: linear-gradient(to right, 
     white 0%, 
     white calc(100% - var(--sidebar-background-width)), 
@@ -452,4 +483,8 @@ h2 {
   width: var(--content-width);
 }
 
+
+#main p{
+
+}
 
