@@ -8,7 +8,7 @@ output:
     self_contained: true
     css: resumex3.css   
 # uncomment this line to produce HTML and PDF in RStudio:
-knit: pagedown::chrome_print
+# knit: pagedown::chrome_print
 ---
 
 Aside
@@ -159,11 +159,9 @@ Athens, GA
 
 Hobbies and Volunteer Activities {data-icon=handshake data-concise=true}
 --------------------------------------------------------------------------------
-Amateur Radio: Amateur Extra Class License KE4MKG
-
-Georgia Appalachian Trail Club: Section 9.13 maintainer, Level 1 Sawyer (chainsaw)
-
-Lawrenceville Cooperative Ministry (community food bank): Screener/Interviewer
+$~~~~~~~~~~~~~~~~~~~~~~$Amateur Radio: Amateur Extra Class License KE4MKG<br>
+$~~~~~~~~~~~~~~~~~~~~~~$Georgia Appalachian Trail Club: Section 9.13 maintainer, Level 1 Sawyer (chainsaw)<br>
+$~~~~~~~~~~~~~~~~~~~~~~$Lawrenceville Cooperative Ministry (community food bank): Screener/Interviewer
 
 
 
