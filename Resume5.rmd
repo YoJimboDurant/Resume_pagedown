@@ -1,0 +1,159 @@
+---
+title: "James T. Durant resume"
+author: "James T. Durant"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: true
+    css: resumex4.css
+knit: pagedown::chrome_print
+---
+
+Main
+================================================================================
+
+James T. Durant {#title}
+--------------------------------------------------------------------------------
+
+### MSPH, CIH
+
+Certified Industrial Hygienist and Environmental Health Scientist with more than 20 years of experience in environmental exposure assessment, industrial hygiene, risk assessment, air dispersion modeling, and environmental data analysis. Senior Industrial Hygienist with Hydro-Environmental Technologies, Inc. (HETI), providing technical support to insurance carriers, attorneys, and property owners on environmental issues associated with property and liability claims. Holds the CIH credential (Board for Global EHS Credentialing) and an MSPH in Industrial Hygiene from the University of Alabama at Birmingham.
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-envelope"></i> jamesdrenda@charter.net $~$
+<i class="fa fa-phone"></i> +1 404-632-1529 $~$
+<i class="fa fa-github"></i> [github.com/yojimbodurant](https://github.com/yojimbodurant) $~$
+<i class="fa-brands fa-researchgate"></i> [researchgate.net/profile/James-Durant](https://www.researchgate.net/profile/James-Durant)
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Last updated on <br>`r Sys.Date()`.
+
+Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Senior Industrial Hygienist
+
+Hydro-Environmental Technologies, Inc. (HETI)
+
+Atlanta, GA
+
+2023 - Present
+
+- Provide technical support to insurance carriers, attorneys, and property owners regarding environmental and industrial hygiene issues associated with property and liability claims.
+- Conduct technical reviews of remediation scopes, contractor estimates, and invoices to evaluate the reasonableness and necessity of remediation costs.
+- Evaluate claims involving mold contamination, indoor air quality complaints, water intrusion, Legionella concerns, and hazardous materials exposure.
+- Develop analytical workflows in **R** for environmental data analysis, modeling, and visualization supporting claim evaluation.
+
+### Environmental Health Scientist (Exposure Investigation Section, GS-14)
+
+Agency for Toxic Substances and Disease Registry (ATSDR)
+
+Atlanta, GA
+
+2019 - 2023
+
+- Performed statistical analysis and visualization of ethylene oxide air sampling data from sterilization and chemical plants, demonstrating reductions following emission controls.
+- Compared biomonitoring data from community investigations with age-adjusted NHANES data to evaluate lead and arsenic exposure.
+- Developed an R package implementing EPA’s Johnson and Ettinger vapor intrusion model with probabilistic and visualization enhancements.
+
+### Branch Associate Director for Science (Acting)
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+2017 - 2019
+
+- Conducted scientific review and technical clearance of health assessments, exposure investigations, protocols, manuscripts, and agency publications.
+- Ensured analyses were scientifically defensible and conclusions supported by available data.
+- Developed statistical guidance incorporated into ATSDR Public Health Assessment Guidance.
+
+### Environmental Health Scientist (Science Support Branch, GS-13)
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+2012 - 2017
+
+- Analyzed more than 30 years of air monitoring data to support public health assessments in Corpus Christi and Midlothian, Texas.
+- Processed large meteorological datasets using R and Bash for CALPUF air dispersion modeling.
+- Developed R tools automating AERMET, AERMINUTE, and AERSURFACE processing and QA; later adapted by EPA for nationwide use.
+
+### Environmental Health Scientist (Emergency Response, GS-13)
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+2008 - 2012
+
+- Evaluated acute chemical releases and developed public health recommendations during environmental emergencies.
+- Prepared chemical-specific toxicology and environmental chemistry summaries supporting emergency response decisions.
+- Supported responses including **Deepwater Horizon** and investigations of acute lead poisoning in artisanal mining communities.
+
+### Environmental Health Scientist (Exposure Investigations and Site Assessment Branch, GS-11,12,13)
+
+Agency for Toxic Substances and Disease Registry
+
+Atlanta, GA
+
+2002 - 2008
+
+- Contributed to public health assessments for sites involving asbestos, metals, volatile organic compounds, PAHs, and dioxin-like compounds.
+- Conducted exposure investigations involving metals, dioxins, and asbestos and prepared technical reports.
+- Designed environmental sampling for studies examining lead and arsenic exposure in a Peruvian mining community.
+
+### Safety Specialist / Industrial Hygienist
+
+Central Arizona Project
+
+Phoenix, AZ
+
+1998 - 2002
+
+- Implemented accident and near-miss reporting and investigation systems.
+- Brought the district into compliance with OSHA respiratory protection, hearing conservation, worker lead protection, and bloodborne pathogen standards.
+- Established an industrial hygiene monitoring program evaluating employee exposure to noise and airborne contaminants.
+
+### Industrial Hygienist II
+
+Arizona Division of Occupational Safety and Health
+
+Phoenix, AZ
+
+1996 - 1998
+
+- Conducted OSHA compliance inspections and exposure monitoring for occupational hazards.
+- Completed more than 80 routine and complaint-based inspections across multiple industries, including fatality investigations.
+- Investigated workplace safety complaints and provided technical guidance to employers.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Alabama at Birmingham
+
+M.S.P.H., Industrial Hygiene
+
+Birmingham, AL
+
+1996
+
+### University of Georgia
+
+B.S.E.H., Environmental Health Science
+
+Athens, GA
+
+1993
+
+Hobbies and Volunteer Activities {data-icon=handshake data-concise=true}
+--------------------------------------------------------------------------------
+
+$~~~~~~~~~~~~~~~~~~~~$ Amateur Radio – Amateur Extra Class License KE4MKG<br>
+$~~~~~~~~~~~~~~~~~~~~$ Georgia Appalachian Trail Club – Section 9.13 maintainer<br>
+$~~~~~~~~~~~~~~~~~~~~$ Lawrenceville Cooperative Ministry – Volunteer interviewer<br>
